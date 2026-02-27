@@ -15,8 +15,8 @@ So when i was new to the world of programming, i found out that there is a much 
 So my gaming world nickname was **FlyAbove**, i really don't know where i got that name in my mind from so i used that very nickname to create a github account where i made a public repository to teach python basics using comment feature in Python lanugage. The repository is still public and on the name of [python.py](https://github.com/FlyAbove/python.py). It went crazy i used to code and update the repository like a thousdan time every single day and i was stuck on computer for like *6 - 7 hours* each day. At some point this repository was getting *1000 views* every single day and was getting cloned by **hundreds**.
 
 ### 📷 Embedding repository traffic
-![Github Traffic Report](https://github.com/FlyAbove/assignment-photos/blob/main/github-report.jpeg)
-![Discord Rich Presence](https://github.com/FlyAbove/assignment-photos/blob/main/discord-rich-presence.jpeg)
+<img src="https://github.com/FlyAbove/assignment-photos/blob/main/github-report.jpeg" alt="Discord Rich Presence" width="300" height="300">
+<img src="https://github.com/FlyAbove/assignment-photos/blob/main/discord-rich-presence.jpeg" alt="Discord Rich Presence" width="300" height="300">
 
 ## 👋 Chapter 4: How i left the world of coding
 
